@@ -1,0 +1,5 @@
+print(float(5))
+print(int(2.5))
+print(int("3"))
+print(str(3))
+print(int("A"))

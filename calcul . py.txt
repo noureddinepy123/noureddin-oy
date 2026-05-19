@@ -1,0 +1,6 @@
+# Hissab l'énergie cinétique f SMPC
+m = 2.0  # la masse en kg
+v = 5.0  # la vitesse en m/s
+Ec = 0.5 * m * v**2
+
+print(f"L'énergie cinétique est: {Ec} Joules")      
